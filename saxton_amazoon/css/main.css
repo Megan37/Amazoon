@@ -1,0 +1,28 @@
+.main-header, .footer {
+    background-color: rgb(129, 24, 24);
+    min-height: 100px;
+}
+
+.nav-item {
+    color: white;
+    padding: 45px;
+}
+
+.shipping {
+    border: 3px solid rgb(33, 88, 19);
+    min-height: 30px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 30px;
+    padding: 5px;
+}
+
+li > img {
+    margin: 10px;
+}
+
+.content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
