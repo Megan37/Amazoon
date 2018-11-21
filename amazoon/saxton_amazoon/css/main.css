@@ -1,0 +1,33 @@
+.main-header, .footer {
+    background-color: rgb(129, 24, 24);
+    min-height: 100px;
+}
+
+.nav-item {
+    color: white;
+    padding: 50px;
+}
+
+.shipping {
+    border: 3px solid rgb(33, 88, 19);
+    min-height: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    line-height: 30px;
+    padding: 5px;
+}
+
+li > img {
+    margin: 5px;
+}
+
+.content {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.carousel-control-next-icon {
+   
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%000000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
